@@ -1,2 +1,2 @@
-# hackduke2019
-2019 HACKDUKE project
+# ElectricSkootaloo
+This is our 2019 HACKDUKE project!
