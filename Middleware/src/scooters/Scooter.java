@@ -1,3 +1,7 @@
+package scooters;
+
+import utils.Location;
+
 import java.util.Date;
 
 public abstract class Scooter {

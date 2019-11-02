@@ -1,6 +1,8 @@
+package utils;
+
 /******************************************************************************
- *  Compilation:  javac Location.java
- *  Execution:    java Location
+ *  Compilation:  javac utils.Location.java
+ *  Execution:    java utils.Location
  *
  *  Immutable data type for a named location: name and
  *  (latitude, longitude).
