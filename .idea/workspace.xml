@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="35ce0e6e-200f-4163-80f5-9c748070741f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Middleware/src/scooters/BirdScooter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Middleware/src/scooters/LimeScooter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Middleware/src/scooters/SpinScooter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Middleware/src/utils/HTTPRequests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Middleware/src/Location.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middleware/src/utils/Location.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Middleware/src/Scooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middleware/src/scooters/Scooter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middleware/bin/production/Middleware/Location.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middleware/bin/production/Middleware/Scooter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middleware/src/scooters/SpinScooter.java" beforeDir="false" afterPath="$PROJECT_DIR$/Middleware/src/scooters/SpinScooter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Middleware/src/utils/HTTPRequests.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,9 +38,15 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Marc\Documents\HACKDUKE 2019\Middleware\src\scooters" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -57,7 +60,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Location">
+  <component name="RunManager" selected="Application.SpinScooter">
     <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HelloWorld" />
       <module name="Middleware" />
@@ -72,8 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpinScooter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="scooters.SpinScooter" />
+      <module name="Middleware" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="scooters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SpinScooter" />
         <item itemvalue="Application.Location" />
         <item itemvalue="Application.HelloWorld" />
       </list>
@@ -89,7 +106,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572731186724</updated>
-      <workItem from="1572731189710" duration="3499000" />
+      <workItem from="1572731189710" duration="8251000" />
     </task>
     <servers />
   </component>
